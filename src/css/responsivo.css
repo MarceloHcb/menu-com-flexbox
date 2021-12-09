@@ -1,0 +1,41 @@
+
+@media (max-width: 376px){
+    .container{
+
+        flex-direction: column;
+        align-items: center;
+      
+       
+            
+    }
+
+    .espaco-logo{
+       
+        margin-bottom: 80px;
+        font-size: 30px;
+        font-weight: 800;
+    }
+    
+    
+    .menu ul{
+        flex-direction: column;
+        align-items: center;
+        font-size: 40px;
+        font-weight: normal;
+       
+    }
+    .menu ul li{
+        padding: 10px;
+    }
+
+    
+    
+
+
+
+
+    button{
+
+        margin: 60px;
+    }
+}
